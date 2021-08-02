@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align = "center"> Hi there 👋, I'm Cibin Varghese </h1>
 
 Welcome to my Github!!
 
@@ -6,7 +6,7 @@ I am a Storage Specialist with 13 years of expertise in SAN and NAS, datacenter 
 
 A keen strategist and thorough implementer with abilities in delivery management, focusing on maximizing customer satisfaction, embrace challenges, technical problem-solving skills, site reliability, efficiency, scalability, process compliance, quality, and comprehensive experience in leading teams and multiple projects across locations.
 
-Key Skills:-
+<h5> Key Skills:- </h5>
 
 Data Migration/Replication/Business Continuity: Open Replicator (OR), SANCopy, ROBOCopy, EMCopy, PPME, SRDF/S, SRDF/A, Snap, Clone, SnapIQ, SyncIQ
 
