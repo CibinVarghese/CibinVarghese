@@ -6,22 +6,22 @@ I am a Storage Specialist with 13 years of expertise in SAN and NAS, datacenter 
 
 A keen strategist and thorough implementer with abilities in delivery management, focusing on maximizing customer satisfaction, embrace challenges, technical problem-solving skills, site reliability, efficiency, scalability, process compliance, quality, and comprehensive experience in leading teams and multiple projects across locations.
 
-<h5> Key Skills:- </h5>
+<h4> <b> Key Skills:- </b></h4>
 
-Data Migration/Replication/Business Continuity: Open Replicator (OR), SANCopy, ROBOCopy, EMCopy, PPME, SRDF/S, SRDF/A, Snap, Clone, SnapIQ, SyncIQ
+<b>Data Migration/Replication/Business Continuity: </b> Open Replicator (OR), SANCopy, ROBOCopy, EMCopy, PPME, SRDF/S, SRDF/A, Snap, Clone, SnapIQ, SyncIQ
 
-SAN/NAS: Pure FlashArray X, Isilon, XtremIO, Unity, VMAX, VPLEX, Vblock, VNX, VNXe, Clariion, HP EVA, PowerFlex 3.0
+<b>SAN/NAS:</b> Pure FlashArray X, Isilon, XtremIO, Unity, VMAX, VPLEX, Vblock, VNX, VNXe, Clariion, HP EVA, PowerFlex 3.0
 
-Fabric: Brocade, Cisco, IVR Zoning, EMC Connectrix Manager
+<b>Fabric:</b> Brocade, Cisco, IVR Zoning, EMC Connectrix Manager
 
-Scripting & Automation: PowerShell
+<b>Scripting & Automation:</b> PowerShell
 
-Website : www.cibinvarghese.com
+<b>Website:</b> www.cibinvarghese.com
 
-E-mail: cibin.sminds@gmail.com
+<b>E-mail:</b> cibin.sminds@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/cibin-varghese-4965318
+<b>LinkedIn:</b> https://www.linkedin.com/in/cibin-varghese-4965318
 
-Mobile: +91 9742072200
+<b>Mobile:</b> +91 9742072200
 
 
